@@ -1,16 +1,17 @@
 ---
-title: "An example journal article"
+title: "Group Role Three-Way Assignment for Managing Uncertainty in Role Negotiation"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Shiyu Wu
+- Shenglin Li
+- Haibin Zhu
+- Rui Chen
+- Libo Zhang
+
+date: "2025-04-22T00:00:00Z"
+doi: "https://doi.org/10.1109/TCYB.2025.3558402"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-04-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +19,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "IEEE Transactions on Cybernetics"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Role-based collaboration (RBC) is an innovative collaborative approach designed to enhance collaboration. Role negotiation (RN) is a critical step in RBC, during which the role set and the number of agents required for each role, i.e., role requirements, are determined. This process establishes the foundational input for group role assignment (GRA), where roles are assigned to agents to optimize group performance. Uncertainties in RN, such as task volume fluctuations, create dynamic agent requirements. However, existing RBC models typically assume RN to be static, thus failing to adequately address the substantial challenges. Three-way decision (3WD) is a robust decision-making methodology well-suited for managing uncertainty. To address the uncertainties in role requirements, this article introduces truncated discrete distribution to quantify role requirements, and presents a novel group role three-way assignment (GR3A) model. Compared with traditional RBC, our model offers an additional variable partial substitute choice that offers agents little salary during nonengagement periods but can transition to full involvement as required according to the prior agreement. GR3A is a dual-objective nonlinear optimization problem, for which a linearization strategy is proposed to achieve the optimal resolution. Additionally, sufficient and necessary conditions for these assignment problems are put forward to enhance the efficacy of the proposed solutions. To our knowledge, this study innovatively introduces a truncated discrete distribution and 3WD into the RBC framework. Empirical validation through simulations demonstrates the effectiveness and efficacy of the proposed method within the RBC context.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Group Role Three-Way Assignment
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://doi.org/10.1109/TCYB.2025.3558402
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
