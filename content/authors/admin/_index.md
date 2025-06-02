@@ -49,14 +49,7 @@ education:
     date_start: 2023-09-01
     date_end: 2025-06-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
       GPA: 4.0/5.0
-
       Courses included:
       - 计算原理
       - 网络科学导论
@@ -99,7 +92,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: IELTS 6.5
+    percent: 65
 
 # Awards.
 #   Add/remove as many awards below as you like.
