@@ -29,7 +29,7 @@ abstract: Role-based collaboration (RBC) is an innovative collaborative approach
 
 tags:
 - Group Role Three-Way Assignment
-featured: false
+featured: yes
 
 # links:
 # - name: ""

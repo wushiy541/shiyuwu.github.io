@@ -31,7 +31,7 @@ abstract: Role-based collaboration (RBC) is a novel problem-solving paradigm to 
 
 tags:
 - Group Multirole Assignment With General Conflict
-featured: false
+featured: yes
 
 # links:
 # - name: ""
