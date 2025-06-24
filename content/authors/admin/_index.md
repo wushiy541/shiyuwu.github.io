@@ -3,7 +3,7 @@
 title: 武士裕
 
 # Name pronunciation (optional)
-name_pronunciation: Shiyu Wu
+name_pronunciation: Wu Shiyu
 
 # Full name (for SEO)
 first_name: Shiyu
