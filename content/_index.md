@@ -5,8 +5,8 @@ date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
-  spacing: "18rem"
+  # Default section spacing 宽度
+  spacing: "58rem"
 
 sections:
   - block: resume-biography-3
@@ -47,9 +47,12 @@ sections:
         ### 2025年
          1. Shiyu Wu, Shenglin Li, Haibin Zhu, Rui Chen, Libo Zhang*, [Group Role Three-Way Assignment for Managing Uncertainty in Role Negotiation](https://doi.org/10.1109/TCYB.2025.3558402)[J]. *IEEE Transactions on Cybernetics*, 2025, 55(6): 2924-2936.(中科院一区TOP)
          2. Shiyu Wu, Shenglin Li, Haibin Zhu, Tianxing Wang, Libo Zhang*, [Group Multirole Assignment With General Conflict](https://doi.org/10.1109/TSMC.2025.3549602)[J]. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2025, 55(6): 4188 - 4201.(中科院一区TOP)
+        
+        ### 2024年
+         3. Xiangjun Liu; Shiyu Wu; Ruisi Yang; Libo Zhang, [GRATP Model Based on Comprehensive Training Cost: Solving Collaboration Problems in Real-World Scenario](https://doi.org/10.1109/MSMC.2023.3236491)[J]. *IEEE Systems, Man, and Cybernetics Magazine*, 2024, 10(3): 14-21.
 
         ### 2023年
-         3. Shiyu Wu; Meiqiao Pan; Yanyan Fan; Shenglin Li; Libo Zhang, [Group Role Assignment with a Training Plan Considering the Duration in Adaptive Collaboration](https://doi.org/10.1109/CSCWD57460.2023.10152561)[C]. *2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, Rio de Janeiro, Brazil, 2023:739-744.
+         4. Shiyu Wu; Meiqiao Pan; Yanyan Fan; Shenglin Li; Libo Zhang, [Group Role Assignment with a Training Plan Considering the Duration in Adaptive Collaboration](https://doi.org/10.1109/CSCWD57460.2023.10152561)[C]. *2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, Rio de Janeiro, Brazil, 2023:739-744.
       columns: 1
   - block: collection
     content:
