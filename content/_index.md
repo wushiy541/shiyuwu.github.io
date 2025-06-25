@@ -6,13 +6,13 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "10rem"
+  spacing: "18rem"
 
 sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: Shiyu Wu
+      username: admin #此处表示文件夹，别动
       text: ""
       # Show a call-to-action button under your biography? (optional)
       #button:
@@ -50,7 +50,6 @@ sections:
 
         ### 2023年
          3. Shiyu Wu; Meiqiao Pan; Yanyan Fan; Shenglin Li; Libo Zhang, [Group Role Assignment with a Training Plan Considering the Duration in Adaptive Collaboration](https://doi.org/10.1109/CSCWD57460.2023.10152561)[C]. *2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, Rio de Janeiro, Brazil, 2023:739-744.
-
       columns: 1
   - block: collection
     content:
