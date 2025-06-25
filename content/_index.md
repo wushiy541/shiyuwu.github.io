@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing 宽度
+  # Default section spacing 
   spacing: "8rem"
 
 sections:
@@ -40,6 +40,8 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+      width: "1200px"   
+
   - block: markdown
     content:
       title: E-cargo论文
