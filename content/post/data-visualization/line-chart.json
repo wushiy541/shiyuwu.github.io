@@ -49,7 +49,7 @@
   ],
   "layout": {
     "title": "Total Number of Websites",
-    "width": 900,
+    "width": 800,
     "xaxis": {
       "type": "date",
       "range": [946702800000, 1451624400000],

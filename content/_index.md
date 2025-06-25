@@ -57,7 +57,7 @@ sections:
          4. Shiyu Wu; Meiqiao Pan; Yanyan Fan; Shenglin Li; Libo Zhang, [Group Role Assignment with a Training Plan Considering the Duration in Adaptive Collaboration](https://doi.org/10.1109/CSCWD57460.2023.10152561)[C]. *2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, Rio de Janeiro, Brazil, 2023:739-744.
       design:
         columns: '1'
-        width: "8200px"   
+        padding: "2rem"   
   - block: collection
     content:
       title: Recent Publications
