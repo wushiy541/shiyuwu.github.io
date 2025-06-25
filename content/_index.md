@@ -40,7 +40,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-      width: "8200px"   
+      width: "9200px"   
 
   - block: markdown
     content:
