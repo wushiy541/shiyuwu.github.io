@@ -50,17 +50,24 @@ sections:
         featured_only: true
     design:
       view: citation
-      #columns: 1
-  - block: collection
+  - block: markdown
     content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+      title: E-cargo论文
+      text: |
+        ### 2025年
+         1. Shiyu Wu, Shenglin Li, Haibin Zhu, Rui Chen, Libo Zhang*, [Group Role Three-Way Assignment for Managing Uncertainty in Role Negotiation](https://doi.org/10.1109/TCYB.2025.3558402)\[J\]. *IEEE Transactions on Cybernetics*, 2025, 55(6): 2924-2936.(中科院一区TOP)
+         2. Shiyu Wu, Shenglin Li, Haibin Zhu, Tianxing Wang, Libo Zhang*, [Group Multirole Assignment With General Conflict](https://doi.org/10.1109/TSMC.2025.3549602)\[J\]. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2025, 55(6): 4188 - 4201.(中科院一区TOP)
+      #columns: 1
+  #- block: collection
+    #content:
+     # title: Recent Publications
+     # text: ""
+     # filters:
+     #   folders:
+     #     - publication
+      #  exclude_featured: false
+    #design:
+    #  view: citation
   - block: collection
     id: talks
     content:
