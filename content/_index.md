@@ -39,8 +39,7 @@ sections:
         
         Please reach out to collaborate 😃
     design:
-      columns: '1'
-      width: "8200px"   
+      columns: '1' 
 
   - block: markdown
     content:
