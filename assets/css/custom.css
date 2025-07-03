@@ -1,5 +1,5 @@
-.wider-block {
-  max-width: 3600px !important;  /* 你想要多宽都可以 */
+.container, .content, .prose {
+  max-width: 1200px !important; /* 你希望的宽度，可改 */
   margin-left: auto;
   margin-right: auto;
 }
