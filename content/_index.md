@@ -66,6 +66,7 @@ sections:
         
       design:
         columns: '1'
+        css_class: "wider-block"
          
   #- block: collection
   #  content:
